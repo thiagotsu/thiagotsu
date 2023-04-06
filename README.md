@@ -15,7 +15,7 @@
   <img align="center" atl="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotsu&layout=compact&theme=tokyonight)](https://github.com/thiagotsu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotsu&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/thiagotsu/github-readme-stats)
 
 ## Tecnologias que eu estou aprendendo 📚
 
